@@ -1,0 +1,144 @@
+{
+    "Character": {
+      "Name": "Eula", 
+      "Level": 90
+    },
+
+    "Weapon": {
+        "Name": "Snow-Tombed Starsilver",
+        "Level": 90
+    },
+
+    "Artifact": [
+        {
+            "Kind": "Pale Flame",
+            "Type": "Flower of Life",
+            "Level": 20,
+            "MainStat": {
+                "Name": "Hp"
+            },
+            "SubStat": [
+                {
+                    "Name": "Atk_Percent",
+                    "Value": 5.247
+                },
+                {
+                    "Name": "Crit_Rate",
+                    "Value": 6.613
+                },
+                {
+                    "Name": "Def",
+                    "Value": 57.875
+                },
+                {
+                    "Name": "Crit_Dmg",
+                    "Value": 14.763
+                }
+            ]
+        },
+        {
+            "Kind": "Pale Flame",
+            "Type": "Plume of Death",
+            "Level": 20,
+            "MainStat": {
+                "Name": "Atk"
+            },
+            "SubStat": [
+                {
+                    "Name": "Def_Percent",
+                    "Value": 12.393
+                },
+                {
+                    "Name": "Atk_Percent",
+                    "Value": 9.328
+                },
+                {
+                    "Name": "Crit_Rate",
+                    "Value": 3.89
+                },
+                {
+                    "Name": "Crit_Dmg",
+                    "Value": 17.871
+                }
+            ]
+        },
+        {
+            "Kind": "Pale Flame",
+            "Type": "Sands of Eon",
+            "Level": 20,
+            "MainStat": {
+                "Name": "Atk_Percent"
+            },
+            "SubStat": [
+                {
+                    "Name": "Crit_Rate",
+                    "Value": 3.501
+                },
+                {
+                    "Name": "Def",
+                    "Value": 85.655
+                },
+                {
+                    "Name": "Hp",
+                    "Value": 567.625
+                },
+                {
+                    "Name": "Elemental_Mastery",
+                    "Value": 34.965
+                }
+            ]
+        },
+        {
+            "Kind": "Tenacity of the Milelith",
+            "Type": "Goblet of Eonothem",
+            "Level": 20,
+            "MainStat": {
+                "Name": "Physical_Dmg"
+            },
+            "SubStat": [
+                {
+                    "Name": "Def_Percent",
+                    "Value": 6.561
+                },
+                {
+                    "Name": "Crit_Dmg",
+                    "Value": 13.209
+                },
+                {
+                    "Name": "Elemental_Mastery",
+                    "Value": 46.62
+                },
+                {
+                    "Name": "Crit_Rate",
+                    "Value": 13.615
+                }
+            ]
+        },
+        {
+            "Kind": "Pale Flame",
+            "Type": "Circlet of Logos",
+            "Level": 20,
+            "MainStat": {
+                "Name": "Crit_Rate"
+            },
+            "SubStat": [
+                {
+                    "Name": "Crit_Dmg",
+                    "Value": 26.418
+                },
+                {
+                    "Name": "Hp_Percent",
+                    "Value": 8.745
+                },
+                {
+                    "Name": "Atk",
+                    "Value": 15.56
+                },
+                {
+                    "Name": "Def",
+                    "Value": 18.52
+                }
+            ]
+        }
+    ]
+}
