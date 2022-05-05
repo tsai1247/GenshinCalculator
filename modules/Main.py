@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from Database.FullInformation import FullInformation
 from File import File
 
