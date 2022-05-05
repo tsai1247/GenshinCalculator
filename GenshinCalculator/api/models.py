@@ -1,11 +1,12 @@
 from django.db import models
 
-
-# class Artifact( models.Model ):
-#   # define a name is not null and unique
-#   Name = models.CharField( max_length=255, unique=True )
-
 class ArtifactKind( models.Model ):
+  Name = models.CharField( max_length=255, unique=True, primary_key=True )
+
+class ArtifactType( models.Model ):
+  Name = models.CharField( max_length=255, unique=True, primary_key=True )
+
+class Character( models.Model ):
   Name = models.CharField( max_length=255, unique=True, primary_key=True )
   Star = models.IntegerField()
   Vision = models.IntegerField()

@@ -133,4 +133,4 @@ dmypy.json
 in.json
 out.json
 .vscode/
-Data.db
+*.db
