@@ -1,5 +1,6 @@
+#!/usr/bin/env python
+# python version: 3.8.10
 # import Weapsons.py
-
 from Weapons import *
 
 # init a new weapon
